@@ -2,7 +2,7 @@
 # C Language
 
 <div align="center">
-  <img width="350px" src="https://www3.rcherz.com/languages/c-language-logo.html" alt="C Malware Development" />
+  <img width="350px" src="https://github.com/VirtualAllocc/C-Malware-Development/blob/main/C-Logo.png?raw=true" alt="C Malware Development" />
   <h3><a href="https://github.com/VirtualAllocc/C-Malware-Development/">C Malware Development</a></h3>
   <p><b>This repository contains source codes of various techniques used by malware authors, red teamers, threat actors, state-sponsored hacking groups etc. These techniques are well-researched and implemented in Rust.</b></p>
   <br>
@@ -14,13 +14,9 @@
 ---
 
 ## Table of Contents
-- [CodeBase](https://github.com/Whitecat18/Rust-for-Malware-Development)
-- [Walkthrough](#walkthrough)
+- [CodeBase](https://github.com/VirtualAllocc/C-Malware-Development)
 - [Malware Techniques](#malware-techniques)
 - [Encryption Techniques](#encryption-techniques)
-- [Related Blogs](#related-blogs)
-- [Download Repository](#download-as-zip-file)
-- [Contribution](#contributing-to-rust-for-malware-development)
 - [Credits/References](#Credits-/-References)
 
 ## Malware Techniques
