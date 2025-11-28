@@ -3,7 +3,7 @@
 
 <div align="center">
   <img width="350px" src="https://github.com/VirtualAllocc/C-Malware-Development/blob/main/C-Logo.png?raw=true" alt="C Malware Development" />
-  <h3><a href="https://github.com/VirtualAllocc/C-Malware-Development/">C Malware Development</a></h3>
+  <h3><a href="https://github.com/VirtualAllocc/C-Malware-Development/">C Offensive Tool Development</a></h3>
   <p><b>This repository contains source codes of various techniques used by malware authors, red teamers, threat actors, state-sponsored hacking groups etc. These techniques are well-researched and implemented in C.</b></p>
   <br>
   <img src="https://img.shields.io/badge/Language-C-orange" alt="Language: C" />
