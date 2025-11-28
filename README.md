@@ -4,7 +4,7 @@
 <div align="center">
   <img width="350px" src="https://github.com/VirtualAllocc/C-Malware-Development/blob/main/C-Logo.png?raw=true" alt="C Malware Development" />
   <h3><a href="https://github.com/VirtualAllocc/C-Malware-Development/">C Malware Development</a></h3>
-  <p><b>This repository contains source codes of various techniques used by malware authors, red teamers, threat actors, state-sponsored hacking groups etc. These techniques are well-researched and implemented in Rust.</b></p>
+  <p><b>This repository contains source codes of various techniques used by malware authors, red teamers, threat actors, state-sponsored hacking groups etc. These techniques are well-researched and implemented in C.</b></p>
   <br>
   <img src="https://img.shields.io/badge/Language-C-orange" alt="Language: C" />
   <img src="https://img.shields.io/badge/OS-Windows-blue" alt="OS: Windows" />
@@ -36,28 +36,21 @@
 
 I would like to express my sincere gratitude to the creators of remarkable projects and fascinating techniques, who provided me with the tools and inspiration needed to create this extraordinary repository.
 
-* [MemN0ps](https://github.com/MemN0ps)
-* [hasherezade](https://github.com/hasherezade)
 * [vxunderground](https://github.com/vxunderground) 
 * [NUL0x4C](https://github.com/NUL0x4C)
 * [mrd0x](https://github.com/mrd0x)
 * [Cracked5pider](https://github.com/Cracked5pider)
-* [trickster0](https://github.com/trickster0)
-* [João Victor](https://github.com/joaoviictorti)
 * [Maldev-Academy](https://github.com/Maldev-Academy/)
+* [Paranoid-Ninja](https://github.com/paranoidninja/)
 
 
 ### Other Essential Resources:
 
 * https://ired.team
-* https://github.com/microsoft/windows-rs
-* https://github.com/retep998/winapi-rs
-* https://github.com/MSxDOS/ntapi
-* https://github.com/janoglezcampos/rust_syscalls
-* https://github.com/rust-osdev/uefi-rs
-* https://discord.gg/rust-lang-community
-* https://github.com/anvie/litcrypt.rs
-* https://balwurk.com/shellcode-evasion-using-webassembly-and-rust
+* https://0xdarkvortex.dev/
+* https://0xdarkvortex.dev/blogs/
+* https://0xdarkvortex.dev/training-programs/malware-on-steroids/
+* https://0xdarkvortex.dev/training-programs/offensive-tool-development/
 
 ## License
 
