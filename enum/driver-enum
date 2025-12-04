@@ -1,0 +1,26 @@
+#include <windows.h>
+#include <stdio.h>
+#include <psapi.h>
+
+
+int main() {
+
+    LPVOID drivers[1024];
+    DWORD cbNeeded;
+    int cDrivers, i;
+
+    if (EnumDeviceDrivers(drivers, sizeof(drivers), &cbNeeded) && cbNeeded < sizeof(drivers)) {
+        CHAR szDriver[1024];
+        cDrivers = cbNeeded / sizeof(drivers[0]);
+
+        wprintf(L"[+] %d drivers found\n", cDrivers);
+        for (i = 0; i < cDrivers; i++) {
+            if (GetDeviceDriverBaseNameA(drivers[i], szDriver, sizeof(szDriver) / sizeof(szDriver[0]))) {
+                wprintf(L"[.] %S => %p\n", szDriver, drivers[i]);
+            }
+            else {
+                wprintf(L"[-] E: %d", GetLastError());
+            }
+        }
+    }
+}
