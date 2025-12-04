@@ -23,7 +23,7 @@
 
 | Technique | Description |
 |-----------|-------------|
-| [Enumeration](Enumeration) | Enumeration techniques |
+| [Enumeration](https://github.com/VirtualAllocc/C-Ofensive-Tool-Development/tree/main/enum) | Enumeration techniques |
 
 ## Encryption Techniques
 
