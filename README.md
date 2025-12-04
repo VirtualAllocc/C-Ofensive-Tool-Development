@@ -23,7 +23,7 @@
 
 | Technique | Description |
 |-----------|-------------|
-| [Process Injection](Process-Injection) | Process injection techniques |
+| [Enumeration](Enumeration) | Enumeration techniques |
 
 ## Encryption Techniques
 
